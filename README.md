@@ -1,9 +1,6 @@
-# QQuickMaterialHelperGallery
+# QQuickMaterialHelperGallery (DEPRECATED)
 
-
-<a href="http://85.170.130.157:51861/viewType.html?buildTypeId=QQuickMaterialHelperGallery_Build_MSVC64&guest=1">
-<img src="http://85.170.130.157:51861/app/rest/builds/buildType:(id:QQuickMaterialHelperGallery_Build_MSVC64)/statusIcon"/>
-</a>
+> THIS PROJECT ISN'T UPDATED ANYMORE, YOU SHOULD USE [Qaterial](https://github.com/OlivierLDff/Qaterial) AND [QaterialGallery](https://github.com/OlivierLDff/QaterialGallery). THEY ARE HARD FROM THIS LIBRARY WITH BETTER NAMING (SHORTER) AND BETTER QML MODULES ORGANIZATION.
 
 QQuickMaterialHelperGallery is a showcase application and contains example for the library QQuickMaterialHelper. It is still under development.
 
